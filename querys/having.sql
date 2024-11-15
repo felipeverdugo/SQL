@@ -1,0 +1,6 @@
+-- Consultas con Agrupación y Having
+-- Mostrar la cantidad total de productos por cada proveedor que tiene más de cinco productos.
+-- Listar las categorías que tienen un precio promedio de productos superior a 20.
+-- Obtener el nombre de cada cliente junto con el número de pedidos que ha realizado, solo si ha hecho más de tres pedidos.
+-- Mostrar el nombre de cada proveedor y la cantidad de productos que ofrece, solo si ofrece más de dos productos en la categoría “Bebidas”.
+-- Calcular el total de unidades vendidas de cada producto y mostrar solo aquellos productos con más de 500 unidades vendidas.

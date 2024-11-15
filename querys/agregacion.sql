@@ -1,0 +1,7 @@
+-- Consultas de Agregación
+-- Calcular el precio promedio de todos los productos.
+-- Mostrar el número total de productos en cada categoría.
+-- Determinar el número total de pedidos realizados por cada cliente.
+-- Mostrar la cantidad total de unidades vendidas para cada producto.
+-- Encontrar el pedido con la cantidad total más alta.
+-- Calcular el precio total de todos los productos de una categoría específica (por ejemplo, “Condimentos”).

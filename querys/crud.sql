@@ -1,0 +1,6 @@
+-- Consultas de Modificación (Insert, Update, Delete)
+-- Insertar un nuevo producto en la categoría de “Bebidas” con los detalles de tu elección.
+-- Actualizar el precio de todos los productos en la categoría de “Condimentos” aumentando su precio en un 10%.
+-- Eliminar todos los productos que no tengan pedidos asociados.
+-- Insertar un nuevo proveedor y asociarlo a un producto de tu elección.
+-- Cambiar el nombre de la categoría “Bebidas” a “Refrescos”.

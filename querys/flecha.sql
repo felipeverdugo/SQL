@@ -1,0 +1,6 @@
+-- Funciones de Fecha
+-- Mostrar el nombre y fecha de nacimiento de cada empleado, calculando su edad.
+-- Listar todos los pedidos realizados en el año 1997.
+-- Mostrar la cantidad de pedidos realizados en cada mes de 1998.
+-- Listar los empleados con más de 10 años de antigüedad en la empresa.
+-- Calcular el tiempo transcurrido desde que cada pedido fue realizado.

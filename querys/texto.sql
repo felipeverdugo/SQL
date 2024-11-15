@@ -1,0 +1,6 @@
+-- Funciones de Texto
+-- Mostrar el nombre de cada cliente en mayúsculas.
+-- Listar los nombres de los empleados donde el apellido tiene más de seis letras.
+-- Mostrar los nombres de los productos que contienen la palabra “chocolate”.
+-- Obtener el nombre y cargo de cada empleado concatenados en una sola columna.
+-- Listar el nombre de cada cliente, mostrando solo los primeros tres caracteres de su nombre de contacto.

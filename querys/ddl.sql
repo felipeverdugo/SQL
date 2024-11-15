@@ -1,0 +1,6 @@
+-- Consultas de Creación de Estructura (DDL)
+-- Crear una nueva tabla llamada “Promociones” con las columnas: id, nombre_promocion, descuento, y fecha_inicio.
+-- Agregar una columna llamada notas a la tabla de empleados.
+-- Eliminar la columna fax de la tabla de proveedores.
+-- Cambiar el nombre de la columna cargo en la tabla de empleados a puesto.
+-- Crear una vista llamada “VentasTotales” que muestre el nombre del producto, el nombre del proveedor y la cantidad total vendida.

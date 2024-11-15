@@ -1,0 +1,6 @@
+-- Joins
+-- Listar el nombre de cada producto junto con el nombre de su proveedor.
+-- Mostrar el nombre de cada cliente junto con el país de origen de su proveedor.
+-- Obtener el nombre de cada producto junto con el nombre de la categoría a la que pertenece.
+-- Listar los nombres de los empleados que han procesado algún pedido junto con el ID de pedido.
+-- Mostrar el nombre y precio de cada producto junto con el nombre del proveedor y su país de origen.
